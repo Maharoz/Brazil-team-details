@@ -1,0 +1,60 @@
+/**
+ * Fifa WorldCup 2018 Brazil Team
+ * Developed by Maharoz Alam
+**/
+.heading {
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+.teams ul li {
+    cursor: pointer;
+}
+
+.timezone {
+    padding: 100px 0px 40px 0px;
+}
+
+.timezone select {
+    margin-bottom: 10px;
+}
+
+.timezone a {
+    color: #456;
+}
+
+.fixtures-container {
+    margin-top: 50px;
+}
+
+table td, table th {
+    text-align: center;
+}
+
+.fixtures {
+    margin-bottom: 100px;
+}
+
+.footer{
+    padding: 26px 0px 15px 0px;
+    background-color: #222;
+    color: #eee;
+}
+
+/* Contributed by Faridul Haque https://www.facebook.com/googoling */
+.footer a{
+    color: #eee;
+}
+
+.table td, .table th {
+    vertical-align: middle;
+}
+
+table td, table th {
+    text-align: left;
+}
+
+.mr-1, .mx-1 {
+    margin-right: .65rem!important;
+}
+/* Contribution End */
