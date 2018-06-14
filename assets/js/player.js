@@ -4,14 +4,14 @@ let fixturess = [
 "id": "1", 
         "match": "24",
         "goals": "0",
-        "position": "midfild",
+        "position": "midfielder",
         "club": "Real Madrid",
         "club24": "15:00"
     },{
     	"id": "2", 
         "match": "44",
         "goals": "0",
-        "position": "midfild",
+        "position": "midfielder",
         "club": "Manchester City",
         "club24": "15:00"
     },
@@ -19,7 +19,7 @@ let fixturess = [
     	"id": "3", 
         "match": "36",
         "goals": "10",
-        "position": "midfild",
+        "position": "midfielder",
         "club": "Barcelona",
         "club24": "15:00"
     },
@@ -124,7 +124,7 @@ let fixturess = [
     	"id": "16", 
         "match": "57",
         "goals": "8",
-        "position": "midfild",
+        "position": "midfielder",
         "club": "Chelsea",
         "club24": "15:00"
     },
@@ -132,7 +132,7 @@ let fixturess = [
     	"id": "17", 
         "match": "8",
         "goals": "0",
-        "position": "midfild",
+        "position": "midfielder",
         "club": "Shakhtar Donetsk",
         "club24": "15:00"
     },
@@ -140,7 +140,7 @@ let fixturess = [
     	"id": "18", 
         "match": "50",
         "goals": "12",
-        "position": "midfild",
+        "position": "midfielder",
         "club": "Barcelona",
         "club24": "15:00"
     },
@@ -148,7 +148,7 @@ let fixturess = [
     	"id": "19", 
         "match": "25",
         "goals": "8",
-        "position": "midfild",
+        "position": "midfielder",
         "club": "Beijing Guoan",
         "club24": "15:00"
     },
