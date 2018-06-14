@@ -6,7 +6,7 @@ var i;
         $("li").on("click", function () {       	
             var c = $(this).attr('class');            
             
-            $(".fixtures-body tr").hide();
+            $(".Players-body tr").hide();
            
            if(c=="cs"){
            	i=0;
@@ -28,7 +28,7 @@ var i;
                     "d": fixturess[i].position
                 })
             
-               .appendTo($(".fixtures-body"));
+               .appendTo($(".Players-body"));
            }
            else if(c=="fn"){
 			i=1;
@@ -54,7 +54,7 @@ var i;
 
 
               
-               .appendTo($(".fixtures-body"));
+               .appendTo($(".Players-body"));
            }
 
                  else if(c=="co"){
@@ -81,7 +81,7 @@ var i;
 
                 
              
-               .appendTo($(".fixtures-body"));
+               .appendTo($(".Players-body"));
            }
 
               else if(c=="da"){
@@ -108,7 +108,7 @@ var i;
 
                 
              
-               .appendTo($(".fixtures-body"));
+               .appendTo($(".Players-body"));
            }
   else if(c=="al"){
 			i=4;
@@ -134,7 +134,7 @@ var i;
 
                 
              
-               .appendTo($(".fixtures-body"));
+               .appendTo($(".Players-body"));
            }
 
 
@@ -162,7 +162,7 @@ else if(c=="th"){
 
                 
              
-               .appendTo($(".fixtures-body"));
+               .appendTo($(".Players-body"));
            }
 
 
@@ -191,7 +191,7 @@ else if(c=="th"){
 
                 
               
-               .appendTo($(".fixtures-body"));
+               .appendTo($(".Players-body"));
            }
 
  else if(c=="fl"){
@@ -218,7 +218,7 @@ else if(c=="th"){
 
                 
              
-               .appendTo($(".fixtures-body"));
+               .appendTo($(".Players-body"));
            }
 
 
@@ -247,7 +247,7 @@ else if(c=="th"){
 
                 
               
-               .appendTo($(".fixtures-body"));
+               .appendTo($(".Players-body"));
            }
 
 
@@ -276,7 +276,7 @@ else if(c=="th"){
 
                 
              
-               .appendTo($(".fixtures-body"));
+               .appendTo($(".Players-body"));
            }
 
 
@@ -303,7 +303,7 @@ else if(c=="th"){
                 })
 
                              
-               .appendTo($(".fixtures-body"));
+               .appendTo($(".Players-body"));
            }
 
 
@@ -332,7 +332,7 @@ else if(c=="th"){
 
                 
              
-               .appendTo($(".fixtures-body"));
+               .appendTo($(".Players-body"));
            }
 
 
@@ -360,7 +360,7 @@ else if(c=="th"){
 
                 
               
-               .appendTo($(".fixtures-body"));
+               .appendTo($(".Players-body"));
            }
 
             else if(c=="je"){
@@ -387,7 +387,7 @@ else if(c=="th"){
 
                 
              
-               .appendTo($(".fixtures-body"));
+               .appendTo($(".Players-body"));
            }
 
 
@@ -415,7 +415,7 @@ else if(c=="th"){
 
                 
              
-               .appendTo($(".fixtures-body"));
+               .appendTo($(".Players-body"));
            }
 
            else if(c=="wi"){
@@ -437,7 +437,7 @@ else if(c=="th"){
                     "t": fixturess[i].club,
                     "d": fixturess[i].position
                 })                           
-               .appendTo($(".fixtures-body"));
+               .appendTo($(".Players-body"));
            }
 
 
@@ -464,7 +464,7 @@ else if(c=="th"){
                 })
 
                             
-               .appendTo($(".fixtures-body"));
+               .appendTo($(".Players-body"));
            }
 
            else if(c=="pa"){
@@ -491,7 +491,7 @@ else if(c=="th"){
 
                 
               //.addClass(['all', class1,class2, class3])
-               .appendTo($(".fixtures-body"));
+               .appendTo($(".Players-body"));
            }
 
            else if(c=="re"){
@@ -517,7 +517,7 @@ else if(c=="th"){
                 })
 
                 
-               .appendTo($(".fixtures-body"));
+               .appendTo($(".Players-body"));
            }
 
             else if(c=="pe"){
@@ -542,7 +542,7 @@ else if(c=="th"){
                     "d": fixturess[i].position
                 })
                            
-               .appendTo($(".fixtures-body"));
+               .appendTo($(".Players-body"));
            }
             window.scrollTo(0, 700);
 
@@ -572,7 +572,7 @@ else if(c=="th"){
                     "d": fixturess[i].position
                 })
               //.addClass(['all', class1,class2, class3])
-               .appendTo($(".fixtures-body"));
+               .appendTo($(".Players-body"));
 
 
         }

@@ -11,17 +11,6 @@
     cursor: pointer;
 }
 
-.timezone {
-    padding: 100px 0px 40px 0px;
-}
-
-.timezone select {
-    margin-bottom: 10px;
-}
-
-.timezone a {
-    color: #456;
-}
 
 .fixtures-container {
     margin-top: 50px;
