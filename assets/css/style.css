@@ -47,3 +47,7 @@ table td, table th {
     margin-right: .65rem!important;
 }
 /* Contribution End */
+
+li:hover{
+ cursor: pointer;
+}
