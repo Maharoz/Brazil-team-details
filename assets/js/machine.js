@@ -23,7 +23,7 @@ var i;
                 .data({
                     "match": fixturess[i].match,
                     "goals": fixturess[i].goals,
-                   "t24": fixturess[i].club24,
+                   
                     "t": fixturess[i].club,
                     "d": fixturess[i].position
                 })
@@ -47,7 +47,7 @@ var i;
                 .data({
                     "match": fixturess[i].match,
                     "goals": fixturess[i].goals,
-                   "t24": fixturess[i].club24,
+                 
                     "t": fixturess[i].club,
                     "d": fixturess[i].position
                 })
@@ -74,7 +74,7 @@ var i;
                 .data({
                     "match": fixturess[i].match,
                     "goals": fixturess[i].goals,
-                   "t24": fixturess[i].club24,
+                  
                     "t": fixturess[i].club,
                     "d": fixturess[i].position
                 })
@@ -101,7 +101,7 @@ var i;
                 .data({
                     "match": fixturess[i].match,
                     "goals": fixturess[i].goals,
-                   "t24": fixturess[i].club24,
+                 
                     "t": fixturess[i].club,
                     "d": fixturess[i].position
                 })
@@ -127,7 +127,7 @@ var i;
                 .data({
                     "match": fixturess[i].match,
                     "goals": fixturess[i].goals,
-                   "t24": fixturess[i].club24,
+                   
                     "t": fixturess[i].club,
                     "d": fixturess[i].position
                 })
@@ -155,7 +155,7 @@ else if(c=="th"){
                 .data({
                     "match": fixturess[i].match,
                     "goals": fixturess[i].goals,
-                   "t24": fixturess[i].club24,
+                   
                     "t": fixturess[i].club,
                     "d": fixturess[i].position
                 })
@@ -184,7 +184,7 @@ else if(c=="th"){
                 .data({
                     "match": fixturess[i].match,
                     "goals": fixturess[i].goals,
-                   "t24": fixturess[i].club24,
+                  
                     "t": fixturess[i].club,
                     "d": fixturess[i].position
                 })
@@ -211,7 +211,7 @@ else if(c=="th"){
                 .data({
                     "match": fixturess[i].match,
                     "goals": fixturess[i].goals,
-                   "t24": fixturess[i].club24,
+                  
                     "t": fixturess[i].club,
                     "d": fixturess[i].position
                 })
@@ -240,7 +240,7 @@ else if(c=="th"){
                 .data({
                     "match": fixturess[i].match,
                     "goals": fixturess[i].goals,
-                   "t24": fixturess[i].club24,
+                
                     "t": fixturess[i].club,
                     "d": fixturess[i].position
                 })
@@ -269,7 +269,7 @@ else if(c=="th"){
                 .data({
                     "match": fixturess[i].match,
                     "goals": fixturess[i].goals,
-                   "t24": fixturess[i].club24,
+                   
                     "t": fixturess[i].club,
                     "d": fixturess[i].position
                 })
@@ -297,7 +297,7 @@ else if(c=="th"){
                 .data({
                     "match": fixturess[i].match,
                     "goals": fixturess[i].goals,
-                   "t24": fixturess[i].club24,
+                  
                     "t": fixturess[i].club,
                     "d": fixturess[i].position
                 })
@@ -325,7 +325,7 @@ else if(c=="th"){
                 .data({
                     "match": fixturess[i].match,
                     "goals": fixturess[i].goals,
-                   "t24": fixturess[i].club24,
+                  
                     "t": fixturess[i].club,
                     "d": fixturess[i].position
                 })
@@ -353,7 +353,7 @@ else if(c=="th"){
                 .data({
                     "match": fixturess[i].match,
                     "goals": fixturess[i].goals,
-                   "t24": fixturess[i].club24,
+                  
                     "t": fixturess[i].club,
                     "d": fixturess[i].position
                 })
@@ -380,7 +380,7 @@ else if(c=="th"){
                 .data({
                     "match": fixturess[i].match,
                     "goals": fixturess[i].goals,
-                   "t24": fixturess[i].club24,
+                   
                     "t": fixturess[i].club,
                     "d": fixturess[i].position
                 })
@@ -408,7 +408,7 @@ else if(c=="th"){
                 .data({
                     "match": fixturess[i].match,
                     "goals": fixturess[i].goals,
-                   "t24": fixturess[i].club24,
+                   
                     "t": fixturess[i].club,
                     "d": fixturess[i].position
                 })
@@ -433,7 +433,7 @@ else if(c=="th"){
                 .data({
                     "match": fixturess[i].match,
                     "goals": fixturess[i].goals,
-                   "t24": fixturess[i].club24,
+                   
                     "t": fixturess[i].club,
                     "d": fixturess[i].position
                 })                           
@@ -458,7 +458,7 @@ else if(c=="th"){
                 .data({
                     "match": fixturess[i].match,
                     "goals": fixturess[i].goals,
-                   "t24": fixturess[i].club24,
+                  
                     "t": fixturess[i].club,
                     "d": fixturess[i].position
                 })
@@ -484,13 +484,13 @@ else if(c=="th"){
                 .data({
                     "match": fixturess[i].match,
                     "goals": fixturess[i].goals,
-                   "t24": fixturess[i].club24,
+                   
                     "t": fixturess[i].club,
                     "d": fixturess[i].position
                 })
 
                 
-              //.addClass(['all', class1,class2, class3])
+             
                .appendTo($(".Players-body"));
            }
 
@@ -511,7 +511,7 @@ else if(c=="th"){
                 .data({
                     "match": fixturess[i].match,
                     "goals": fixturess[i].goals,
-                   "t24": fixturess[i].club24,
+                  
                     "t": fixturess[i].club,
                     "d": fixturess[i].position
                 })
@@ -537,7 +537,7 @@ else if(c=="th"){
                 .data({
                     "match": fixturess[i].match,
                     "goals": fixturess[i].goals,
-                   "t24": fixturess[i].club24,
+                   
                     "t": fixturess[i].club,
                     "d": fixturess[i].position
                 })
@@ -566,12 +566,11 @@ else if(c=="th"){
                 .append([td0, td1, td2, td3, td4])
                 .data({
                     "match": fixturess[i].match,
-                    "goals": fixturess[i].goals,
-                   "t24": fixturess[i].club24,
+                    "goals": fixturess[i].goals,                   
                     "t": fixturess[i].club,
                     "d": fixturess[i].position
                 })
-              //.addClass(['all', class1,class2, class3])
+              
                .appendTo($(".Players-body"));
 
 
